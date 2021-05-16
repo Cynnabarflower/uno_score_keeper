@@ -1,0 +1,20 @@
+[
+  {
+    "name":"Player 1",
+    "address":"Moscow",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jeff_Bezos_at_Amazon_Spheres_Grand_Opening_in_Seattle_-_2018_%2839074799225%29_%28cropped%29.jpg",
+    "url": "http://www.john-wesley.com"
+  },
+  {
+    "name":"Player 2",
+    "address":"St. Petersburg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Satya_smiling-print_%28cropped%29.jpg",
+    "url": "https://www.microsoft.com"
+  },
+  {
+    "name":"Player 3",
+    "address":"New York",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Tim_Cook_%282017%2C_cropped%29.jpg",
+    "url": "https://www.apple.com"
+  }
+]
